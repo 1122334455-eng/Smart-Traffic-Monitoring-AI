@@ -326,4 +326,4 @@ If you like this project, consider giving it a ⭐ on GitHub.
 
 ## License
 
-This project is developed for educational and research pu
+This project is developed for educational and research purposes.
